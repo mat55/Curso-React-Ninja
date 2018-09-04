@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\redux-flow",
+    "\\src\\redux-flow\\reducers",
+    "\\src\\redux-flow\\reducers\\todos"
+  ],
+  "SelectedNode": "\\src\\redux-flow\\reducers\\todos\\index.js",
+  "PreviewInSolutionExplorer": false
+}
